@@ -1,4 +1,4 @@
-# Digital Wellbeing Dashboard
+# Digital Wellbeing Dashboard (Zen Dash)
 
 A clean and modern Figma-based UI to help users track screen time, mood, and digital habits.
 
