@@ -1,2 +1,10 @@
-# Digital-Wellbeing-Dashboard
-A clean and responsive Digital Wellbeing Dashboard UI designed in Figma to help users track screen time, focus levels, and build healthier digital habits. Includes stats, habit trackers, and mood insights for improved digital wellness.
+# Digital Wellbeing Dashboard
+
+A clean and modern Figma-based UI to help users track screen time, mood, and digital habits.
+
+🔗 [View Prototype on Figma](https://www.figma.com/proto/Xf8oG8sY0Ic2yhTWb8w3IY/Zen-Dash?node-id=0-1&t=EuXmyd9AavCIhQtG-1)
+
+## Features
+- Focus time tracking
+- Screen time analytics
+- Mood-based dashboard
